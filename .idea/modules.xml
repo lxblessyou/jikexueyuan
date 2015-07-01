@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/2D翻转/2D翻转.iml" filepath="$PROJECT_DIR$/2D翻转/2D翻转.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jikexueyuan.iml" filepath="$PROJECT_DIR$/jikexueyuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/倒计时/倒计时.iml" filepath="$PROJECT_DIR$/倒计时/倒计时.iml" />
     </modules>
   </component>
 </project>
