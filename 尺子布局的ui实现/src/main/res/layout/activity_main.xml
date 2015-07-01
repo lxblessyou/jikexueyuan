@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    tools:context=".MainActivity">
+
+    <com.example.admin.rulerlayout.RulerUI
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:gravity="bottom"
+        android:background="#f00"
+        android:textColor="#fff"
+        android:textSize="22dp"
+        android:text="0CM" />
+
+    <com.example.admin.rulerlayout.RulerUI
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:gravity="bottom"
+        android:background="#3f3"
+        android:textColor="#fff"
+        android:textSize="22dp"
+        android:text="1CM" />
+
+    <com.example.admin.rulerlayout.RulerUI
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:gravity="bottom"
+        android:background="#33f"
+        android:textColor="#fff"
+        android:textSize="22dp"
+        android:text="2CM" />
+
+    <com.example.admin.rulerlayout.RulerUI
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:gravity="bottom"
+        android:background="#f00"
+        android:textColor="#fff"
+        android:textSize="22dp"
+        android:text="3CM" />
+
+    <com.example.admin.rulerlayout.RulerUI
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:gravity="bottom"
+        android:background="#3f3"
+        android:textColor="#fff"
+        android:textSize="22dp"
+        android:text="4CM" />
+
+    <com.example.admin.rulerlayout.RulerUI
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:gravity="bottom"
+        android:background="#33f"
+        android:textColor="#fff"
+        android:textSize="22dp"
+        android:text="5CM" />
+</LinearLayout>
